@@ -15,6 +15,4 @@ Este projeto foca-se numa estrutura clara, código sustentável e práticas de l
 El proyecto enfatiza una estructura clara, código mantenible y prácticas de diseño modernas para ofrecer una tarjeta de código QR simple y elegante."
 
 -----
-
-
-
+https://github.com/Sa-mu-el00/QR-Code-Challenge-Solution/blob/main/Captura%20de%20tela%202025-12-18%20142707.png
