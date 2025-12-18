@@ -15,4 +15,4 @@ QR Code Challenge Solution es un componente front-end responsivo construido con 
 El proyecto enfatiza una estructura clara, código mantenible y prácticas de diseño modernas para ofrecer una tarjeta de código QR simple y elegante.
 
 -----
-https://github.com/Sa-mu-el00/QR-Code-Challenge-Solution/blob/main/Captura%20de%20tela%202025-12-18%20142707.png
+<img width="1359" height="682" alt="Captura de tela 2025-12-18 142707" src="https://github.com/user-attachments/assets/f1f82362-9e8e-4d3b-b86e-3c952452dcbd" />
